@@ -245,6 +245,12 @@
         "com.unity.nuget.newtonsoft-json": "3.0.2"
       }
     },
+    "jp.hitsub.ndmf-mantis-lod-editor": {
+      "version": "file:jp.hitsub.ndmf-mantis-lod-editor",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "nadena.dev.modular-avatar": {
       "version": "file:nadena.dev.modular-avatar",
       "depth": 0,

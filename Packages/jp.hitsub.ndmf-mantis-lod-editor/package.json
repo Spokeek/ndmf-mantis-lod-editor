@@ -1,0 +1,21 @@
+{
+  "name": "jp.hitsub.ndmf-mantis-lod-editor",
+  "displayName": "NDMF Mantis LOD Editor",
+  "version": "0.1.0",
+  "description": "A NDMF wrapper around Mantis LOD Editor",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": "3.5.2",
+    "nadena.dev.modular-avatar": ">=1.9.12"
+  },
+  "author": {
+    "name": "Hitsub",
+    "email": "hitsumabushis@gmail.com",
+    "url": "https://hitsub.net"
+  },
+  "legacyFolders": {
+    "Assets\\MantisLODEditor\\NDMF": "994f1ddba14f409ab981ebc2dddac6e8"
+  },
+  "legacyFiles": {},
+  "unity": "2019.4"
+}
